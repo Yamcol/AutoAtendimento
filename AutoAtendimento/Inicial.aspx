@@ -15,7 +15,7 @@
         <div style="text-align: center; padding-top: 300px">
 
             <div class="div1">
-                <asp:ImageButton runat="server" CssClass="botao" Text="Comer Aqui?????" BackColor="Black" OnClick="OnClick_ComerAqui" />
+                <asp:ImageButton runat="server" CssClass="botao" Text="Comer Aqui" BackColor="Black" OnClick="OnClick_ComerAqui" />
             </div>            
             <div class="div2">
                 <asp:ImageButton runat="server" CssClass="botao2" Text="Para Levar?" BackColor="Black" OnClick="OnClick_Levar" />

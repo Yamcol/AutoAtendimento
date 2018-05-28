@@ -1,0 +1,33 @@
+.RadTile_a {
+    color: #808080;
+    background-color: #808080;
+    border-color: black;
+}
+
+    .RadTile_a .rtilePeekContent {
+        background-color: #808080;
+        border-color: black;
+    }
+
+    .RadTile_a.rtileSelected .rtileSelectedIcon {
+        color: #808080;
+        background-color: #808080;
+        border-color: black;
+    }
+
+    .RadTile_a.rtileHovered {
+        border-color: black;
+    }
+
+    .RadTile_a.rtileSelected {
+        border-color: black;
+    }
+
+  .RadTile_a.rtileSelected.rtileHovered {
+    border-color: black; }
+
+    .RadTile_a.rtileLoading,
+    .RadTile_a .rtileLoading {
+        background-image: url('<%=WebResource("Telerik.Web.UI.Skins.a.Common.loading_small.gif")%>');
+        border-color: black;
+    }

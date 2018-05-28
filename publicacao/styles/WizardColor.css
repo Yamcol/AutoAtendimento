@@ -1,0 +1,120 @@
+.RadWizard_WizardColor {
+    color: #e5241d;
+    background: #e5241d ;
+}
+
+    /*Muda cor do botão ANTERIOR*/
+    .RadWizard_WizardColor .rwzButton {
+        border-radius: 3px;
+        border-color: #e5241d;
+        color: #333333;
+        background-color: #e5241d;
+        background-image: linear-gradient(#e5241d, #e5241d); /*mudar cor aqui*/
+    }
+
+    /*Muda cor do botão PROXIMO*/
+    .RadWizard_WizardColor .rwzNext,
+    .RadWizard_WizardColor .rwzFinish {
+        border-color: #e5241d;
+        color: #e5241d;
+        background-color: #e5241d;
+        background-image: linear-gradient(#e5241d, #e5241d); /*mudar cor aqui*/
+    }
+  .RadWizard_WizardColor .rwzLink {
+    border-color: #b3b3b3;
+    color: #333333;
+    background-color: #e6e6e6;
+    background-image: linear-gradient(white, #e6e6e6); } 
+
+    .RadWizard_WizardColor .rwzLink:before {
+      border-color: #b3b3b3;
+      background-image: linear-gradient(135deg, white, #e6e6e6); }
+
+      @media screen\0 {
+        .RadWizard_WizardColor .rwzLink:before {
+            background-color: #e5241d;
+        } }
+
+      @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+        .RadWizard_WizardColor .rwzLink:before {
+            background-color: #e5241d;
+        } }
+
+.RadWizard_WizardColor .rwzProgressBar {
+    border-radius: 3px;
+    border-color: #e5241d;
+    background-color: #e5241d;
+}
+
+.RadWizard_WizardColor .rwzProgress {
+    border-color: #e5241d;
+    background-color: #e5241d;
+}
+    
+   /*Muda de cor do banner ao passar o mouse em cima, mesmo sem clicar*/
+  .RadWizard_WizardColor .rwzHovered.rwzButton,
+  .RadWizard_WizardColor .rwzHovered .rwzLink {
+    border-color: darkgray;
+    color: #000000;
+    background-color: #c2c2c2;
+    background-image: linear-gradient(gainsboro, #c2c2c2); }/*mudar cor aqui*/
+
+.RadWizard_WizardColor .rwzHovered.rwzNext,
+.RadWizard_WizardColor .rwzHovered.rwzFinish {
+    border-color: #e5241d;
+    color: #e5241d;
+    background-color: #e5241d;
+    background-image: linear-gradient(#e5241d, #e5241d);
+}
+
+/*Muda de cor da ponta do banner ao passar o mouse em cima, mesmo sem clicar*/
+.RadWizard_WizardColor .rwzHovered .rwzLink:before {
+    border-color: #e5241d;
+    background-image: linear-gradient(135deg, gainsboro, #c2c2c2); /*mudar cor aqui*/
+}
+
+    @media screen\0 {
+        .RadWizard_WizardColor .rwzHovered .rwzLink:before {
+            background-color: #e5241d;
+        } }
+
+    @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+        .RadWizard_WizardColor .rwzHovered .rwzLink:before .rtbWrap {
+            background-color: #e5241d;
+        } }
+
+.RadWizard_WizardColor .rwzFocused.rwzButton {
+    box-shadow: 0 0 5px #e5241d inset;
+}
+
+.RadWizard_WizardColor .rwzFocused.rwzNext {
+    border-color: #e5241d;
+    box-shadow: 0 0 5px #e5241d inset;
+}
+
+/* Coloca a cor nos banners #Proteina -> Bebidas -> Sobremesas -> Finalizar# */
+.RadWizard_WizardColor .rwzSelected .rwzLink {
+    border-color: #e5241d;
+    color: #e5241d;
+    background-color: #e5241d;
+    background-image: linear-gradient(#ea504b, #e5241d); 
+}
+
+    /* Coloca a cor nas pontas do banner #Proteina -> Bebidas -> Sobremesas -> Finalizar# */
+    .RadWizard_WizardColor .rwzSelected .rwzLink:before {
+        border-color: #ba1b15; /*nao é esse*/
+        background-image: linear-gradient(135deg, #ea504b, #e5241d);
+    }
+    @media screen\0 {
+      .RadWizard_WizardColor .rwzSelected .rwzLink:before {
+        background-color: #e5241d; } }
+    @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+        .RadWizard_WizardColor .rwzSelected .rwzLink:before .rtbWrap {
+            background-color: #e5241d;
+        } }
+
+/*Altera cor da barra de prograsso*/
+.RadWizard_WizardColor.rwzHorizontal .rwzProgress {
+    background-image: linear-gradient(#e5241d, #e5241d);
+}
+

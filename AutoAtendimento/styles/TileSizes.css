@@ -1,0 +1,42 @@
+﻿.CustomSizeTiles .RadTile.rtileSquare {
+    /* SquareTileWidth */
+    width: 150px;    
+}
+
+.CustomSizeTiles .RadTile {
+    color: #b8c945; /*muda cor do texto nativo da tile*/
+    border-radius: 10px; /*coloca bora arredondada na tile*/
+    background-color: #b8c945; /*muda cor do fundo da tile*/
+    background-size: 50px;
+}
+
+    .CustomSizeTiles .RadTile.rtileWide,
+    .CustomSizeTiles .RadTile.rtileSquare {
+        /* SquareTileHeight and WideTileHeight */
+        height: 155px;
+    }
+
+.CustomSizeTiles.RadTileList .rtlistWrapper {
+    /* TileGroupWidth */
+    width: 160px;
+}
+
+.label{
+    border-radius: 0 0 10px 10px;
+    padding-top: 8px;
+}
+
+
+/*
+
+.CustomSizeTiles .RadTile.rtileSquare.BigSquare {
+    width: 205px;
+    height: 205px;
+}
+
+.CustomSizeTiles .RadTile.rtileWide {
+     WideTileWidth  
+    width: 205px;
+}
+
+*/

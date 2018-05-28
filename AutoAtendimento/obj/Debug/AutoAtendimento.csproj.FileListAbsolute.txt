@@ -1,0 +1,182 @@
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll.config
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.pdb
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\EntityFramework.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.Skins.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Core.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Flow.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Zip.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\EntityFramework.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Core.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Flow.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Zip.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CoreCompileInputs.cache
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.pdb
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.dll
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.xml
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll.licenses
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll.config
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.pdb
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\EntityFramework.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.Skins.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\EntityFramework.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.xml
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll.licenses
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CoreCompileInputs.cache
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.pdb
+D:\Rede\Projetos Compartilhados\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csprojResolveAssemblyReference.cache
+D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csprojResolveAssemblyReference.cache
+D:\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll.config
+D:\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll
+D:\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.pdb
+D:\AutoAtendimento\AutoAtendimento\bin\EntityFramework.dll
+D:\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.dll
+D:\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.dll
+D:\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.dll
+D:\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.Skins.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Core.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Flow.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Zip.dll
+D:\AutoAtendimento\AutoAtendimento\bin\Microsoft.AnalysisServices.AdomdClient.dll
+D:\AutoAtendimento\AutoAtendimento\bin\EntityFramework.xml
+D:\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.xml
+D:\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.xml
+D:\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.xml
+D:\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Core.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Flow.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Zip.xml
+D:\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csprojResolveAssemblyReference.cache
+D:\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll.licenses
+D:\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CoreCompileInputs.cache
+D:\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll
+D:\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.pdb
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll.config
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.pdb
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\EntityFramework.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.Skins.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\EntityFramework.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Core.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Flow.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\bin\Telerik.Windows.Zip.xml
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csprojResolveAssemblyReference.cache
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll.licenses
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CopyComplete
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll
+C:\Users\CPD\Desktop\pre-projeto\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.pdb
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\AutoAtendimento.dll.config
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\AutoAtendimento.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\AutoAtendimento.pdb
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\EntityFramework.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\EntityFramework.SqlServer.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\Newtonsoft.Json.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\System.Net.Http.Formatting.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\System.Web.Http.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\System.Web.Http.WebHost.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\Telerik.Web.Spreadsheet.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\Telerik.Web.UI.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\Telerik.Web.UI.Skins.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\EntityFramework.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\EntityFramework.SqlServer.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\Newtonsoft.Json.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\System.Net.Http.Formatting.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\System.Web.Http.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\System.Web.Http.WebHost.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\Telerik.Web.Spreadsheet.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\bin\Telerik.Web.UI.xml
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\obj\Debug\AutoAtendimento.dll.licenses
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CoreCompileInputs.cache
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CopyComplete
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\obj\Debug\AutoAtendimento.dll
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\obj\Debug\AutoAtendimento.pdb
+D:\Projetos\AutoAtendimento - Versões\AutoAtendimento_M_util\AutoAtendimento\obj\Debug\AutoAtendimento.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll.config
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\AutoAtendimento.pdb
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\EntityFramework.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.Skins.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\EntityFramework.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\EntityFramework.SqlServer.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Newtonsoft.Json.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\System.Net.Http.Formatting.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\System.Web.Http.WebHost.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.Spreadsheet.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\bin\Telerik.Web.UI.xml
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csprojAssemblyReference.cache
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll.licenses
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.csproj.CopyComplete
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.dll
+D:\Desenvolvimento\Projetos\AutoAtendimento\AutoAtendimento\AutoAtendimento\obj\Debug\AutoAtendimento.pdb

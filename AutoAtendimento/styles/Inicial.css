@@ -1,0 +1,88 @@
+﻿
+body {
+    background-image: url('../images/fundo.jpeg');
+    background-size: 1550px 870px;
+}
+
+.botao {
+    Width: 300px;
+    Height: 265px;
+
+    border-radius: 10px;
+    border: none;
+
+    margin-top: 90px;
+    margin-right: 50px;
+    margin-left: 50px;
+
+    background-color: #b8c945;
+    background-position: center center;
+    background-size: 330px 270px;
+    background-image: url('../images/botaoPCA.jpeg');
+
+    box-shadow: -6px 4px 31px 6px rgba(0,0,0,0.75);
+}
+
+.botao:hover {
+    border-color: #535a20;
+    color: #000000;
+    background-color: #76802d;
+    background-image: linear-gradient(#99a63a, #76802d);
+    border-radius: 10px;
+    border: none;
+    background-image: url('../images/botaoPCA.jpeg');
+}
+
+.botao:active {
+    margin-top: 100px;
+    box-shadow: -20px 20px 31px 6px rgba(0,0,0,0.75);
+}
+
+.botao:default {
+    margin-top: 90px;
+}
+
+.botao2 {
+    Width: 300px;
+    Height: 265px;
+    border-radius: 10px;
+    margin-top: 90px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-position: center center;
+    background-size: 330px 270px;
+    border-radius: 10px;
+    box-shadow: -6px 4px 31px 6px rgba(0,0,0,0.75);
+    background-color: #b8c945;
+    border: none;
+    background-image: url('../images/botaoPL.jpeg');
+    
+}
+
+.botao2:hover {
+    border-color: #535a20;
+    color: #000000;
+    background-color: #76802d;
+    background-image: linear-gradient(#99a63a, #76802d);
+    border-radius: 10px;
+    border: none;
+    background-image: url('../images/botaoPL.jpeg');
+}
+
+.botao2:active {
+    margin-top: 100px;
+    box-shadow: -20px 20px 31px 6px rgba(0,0,0,0.75);
+}
+
+.botao2:default {
+    margin-top: 90px;
+}
+
+.div1 {
+    float: left;
+    margin-left: 350px;
+}
+
+.div2{
+    float:left; 
+}

@@ -1,0 +1,87 @@
+.TreeListToolTip_tree{font:100 16px/34px "Segoe UI",Arial,Helvetica,sans-serif}
+.RadTreeList_tree{border-color:#e5e5e5;background:#fff;color:#000;font:100 16px/34px "Segoe UI",Arial,Helvetica,sans-serif}
+.RadTreeList_tree .rtlAdd,.RadTreeList_tree .rtlUpdate,.RadTreeList_tree .rtlCancel,.RadTreeList_tree .rtlEdit,.RadTreeList_tree .rtlDel,.RadTreeList_tree .rtlExpand,.RadTreeList_tree .rtlCollapse,.RadTreeList_tree .rtlSortAsc,.RadTreeList_tree .rtlSortDesc{background-image:url('Common/radActionsSprite.png')}
+.RadTreeList_tree .rtlHeader{background-color:#f5f5f5}
+.RadTreeList_tree .rtlHeader a{color:#000}
+.RadTreeList_tree .rtlHeader th{border-color:#e5e5e5}
+.RadTreeList_tree div.rtlHeader,.RadTreeList_tree .rtlScroller{border-color:#e5e5e5}
+.RadTreeList_tree .rtlA{background-color:#ededed}
+.RadTreeList_tree .rtlRFooter{background-color:#e4e4e4}
+.RadTreeList_tree .rtlFooter .rtlTable{height:49px}
+.RadTreeList_tree .rtlRFooter td{border-color:#eaeaea}
+.RadTreeList_tree .rtlREdit{background-color:#ffe79c}
+.RadTreeList_tree .rtlR td,.RadTreeList_tree .rtlA td,.RadTreeList_tree .rtlREdit td,.RadTreeList_tree .rtlEditForm{border-color:#e5e5e5}
+.RadTreeList_tree .rtlR a,.RadTreeList_tree .rtlA a,.RadTreeList_tree .rtlREdit a,.RadTreeList_tree .rtlEditForm a{color:#767676;font-weight:800}
+.RadTreeList_tree .rtlRSel{background:#25a0da;color:#fff}
+.RadTreeList_tree .rtlRSel a{color:#fff}
+.RadTreeList_tree .rtlRSel td{border-color:#25a0da}
+.RadTreeList_tree .rtlRActive{background:white;color:#000}
+.RadTreeList_tree .rtlRActive td{border-color:#25a0da}
+.RadTreeList_tree .rtlVBorders td.rtlL,.RadTreeList_tree .rtlLines td.rtlL{background-color:#fff}
+.RadTreeList_tree .rtlExpand,.RadTreeList_tree .rtlCollapse{display:inline-block;margin:0 0 0 12px;position:relative;top:-5px}
+*+html .RadTreeList_tree .rtlExpand,*+html .RadTreeList_tree .rtlCollapse{position:relative}
+.RadTreeList_tree .rtlExpand{background-position:-17px -167px;background-color:white}
+.RadTreeList_tree .rtlCollapse{background-position:-67px -67px;background-color:white}
+.RadTreeList_tree .rtlAdd,.RadTreeList_tree .rtlUpdate,.RadTreeList_tree .rtlCancel,.RadTreeList_tree .rtlEdit,.RadTreeList_tree .rtlDel{-webkit-border-radius:16px;-moz-border-radius:16px;border-radius:16px;background-color:#f9f9f9;border:1px solid #cdcdcd;width:28px;height:28px}
+.RadTreeList_tree .rtlAdd:hover,.RadTreeList_tree .rtlUpdate:hover,.RadTreeList_tree .rtlCancel:hover,.RadTreeList_tree .rtlEdit:hover,.RadTreeList_tree .rtlDel:hover{background-color:#e8e8e8}
+.RadTreeList_tree .rtlAdd:active,.RadTreeList_tree .rtlUpdate:active,.RadTreeList_tree .rtlCancel:active,.RadTreeList_tree .rtlEdit:active,.RadTreeList_tree .rtlDel:active{background-color:#25a0da;color:white;border-color:#25a0da}
+.RadTreeList_tree .rtlEdit{background-position:-12px -3112px}
+.RadTreeList_tree .rtlEdit:active{background-position:-112px -3112px}
+.RadTreeList_tree .rtlUpdate{background-position:-12px -2612px}
+.RadTreeList_tree .rtlUpdate:active{background-position:-112px -2612px}
+.RadTreeList_tree .rtlAdd,.RadTreeList_tree .rtlHeader .rtlAdd{background-position:-12px -3012px}
+.RadTreeList_tree .rtlAdd:active,.RadTreeList_tree .rtlHeader .rtlAdd:active{background-position:-112px -3012px}
+.RadTreeList_tree .rtlHeader .rtlAdd{background-color:transparent;border:0 none}
+.RadTreeList_tree .rtlHeader .rtlAdd:hover{background-color:#e8e8e8;border:1px solid #cdcdcd}
+.RadTreeList_tree .rtlHeader .rtlAdd:active,.RadTreeList_tree .rtlHeader .rtlAdd:active:hover{background-color:#25a0da;border:1px solid #25a0da}
+.RadTreeList_tree .rtlCancel{background-position:-12px -2812px}
+.RadTreeList_tree .rtlCancel:active{background-position:-112px -2812px}
+.RadTreeList_tree .rtlDel{background-position:-12px -3312px}
+.RadTreeList_tree .rtlDel:active{background-position:-112px -3312px}
+.RadTreeList_tree .rtlSortAsc,.RadTreeList_tree .rtlSortDesc{height:10px;float:left;margin:12px 2px 0 0}
+.RadTreeList_tree .rtlSortAsc{background-position:-20px -20px}
+.RadTreeList_tree .rtlSortDesc{background-position:-20px -70px}
+.RadTreeList_tree .rtlLines td.rtlL0{background-image:url('TreeList/rtlSingle.gif')}
+.RadTreeList_tree .rtlLines td.rtlL1{background-image:url('TreeList/rtlTop.gif')}
+.RadTreeList_tree .rtlLines td.rtlL2{background-image:url('TreeList/rtlMiddle.gif')}
+.RadTreeList_tree .rtlLines td.rtlL3{background-image:url('TreeList/rtlBottom.gif')}
+.RadTreeList_tree .rtlPagerCell{border-color:#e5e5e5}
+.RadTreeList_tree .rtlPager .rtlWrap{line-height:34px}
+.RadTreeList_tree .rtlPager .rtlInfoPart{color:#8a8a8a}
+.RadTreeList_tree .rtlPager .rtlInfoPart strong{color:#4c4e54}
+.RadTreeList_tree .rtlPager .rtlPageFirst,.RadTreeList_tree .rtlPager .rtlPagePrev,.RadTreeList_tree .rtlPager .rtlPageNext,.RadTreeList_tree .rtlPager .rtlPageLast{background:#f9f9f9 url('Common/radActionsSprite.png') no-repeat;width:30px;height:30px;border:1px solid #cdcdcd;-webkit-border-radius:16px;-moz-border-radius:16px;border-radius:16px}
+.RadTreeList_tree .rtlPager .rtlPageFirst:hover,.RadTreeList_tree .rtlPager .rtlPagePrev:hover,.RadTreeList_tree .rtlPager .rtlPageNext:hover,.RadTreeList_tree .rtlPager .rtlPageLast:hover{background-color:#e8e8e8}
+.RadTreeList_tree .rtlPager .rtlPageFirst:active,.RadTreeList_tree .rtlPager .rtlPagePrev:active,.RadTreeList_tree .rtlPager .rtlPageNext:active,.RadTreeList_tree .rtlPager .rtlPageLast:active{background-color:#25a0da;color:white;border-color:#25a0da}
+.RadTreeList_tree .rtlPager .rtlPageFirst{background-position:-11px -711px}
+.RadTreeList_tree .rtlPager .rtlPageFirst:active{background-position:-111px -711px}
+.RadTreeList_tree .rtlPager .rtlPagePrev{background-position:-11px -111px}
+.RadTreeList_tree .rtlPager .rtlPagePrev:active{background-position:-111px -111px}
+.RadTreeList_tree .rtlPager .rtlPageNext{background-position:-11px -161px}
+.RadTreeList_tree .rtlPager .rtlPageNext:active{background-position:-111px -161px}
+.RadTreeList_tree .rtlPager .rtlPageLast{background-position:-11px -761px}
+.RadTreeList_tree .rtlPager .rtlPageLast:active{background-position:-111px -761px}
+.RadTreeList_tree .rtlPager .rtlPagerButton{border-color:#25a0da;background:#25a0da;color:#fff}
+.RadTreeList_tree .rtlPager .rtlNumPart a{-webkit-border-radius:16px;-moz-border-radius:16px;border-radius:16px;margin:2px 1px 0 1px;padding:0;width:28px;height:28px;border:#cdcdcd;color:black;background-color:#f9f9f9;line-height:28px;text-align:center;border:1px solid #cdcdcd}
+.RadTreeList_tree .rtlPager .rtlNumPart a span{padding:0;float:none;display:inline}
+.RadTreeList_tree .rtlPager .rtlNumPart a:hover{background-color:#e8e8e8}
+.RadTreeList_tree .rtlPager .rtlNumPart a.rtlCurrentPage,.RadTreeList_tree .rtlPager .rtlNumPart a.rtlCurrentPage:hover{border-color:#25a0da;color:white;background:#25a0da}
+.RadTreeList_tree .rtlDragHandle{background-image:url('Grid/rgDrag.gif')}
+.TreeListReorderTop_tree,.TreeListReorderBottom_tree{width:1px;height:30px;margin:24px 0 0 -2px;border-right:1px solid #808080;border-left:1px solid #808080;border-color:rgba(255,255,255,0.5);background:black!important}
+.TreeListReorderBottom_tree{margin:-24px 0 0 -2px}
+.TreeListReorderBottom_tree:after,.TreeListReorderTop_tree:before{content:"";display:block;width:9px;height:9px;margin-left:-5px;margin-top:-6px;background:black;-webkit-border-radius:16px;-moz-border-radius:16px;border-radius:16px;border:1px solid #808080;border-bottom-width:0;border-color:rgba(255,255,255,0.5)}
+.TreeListReorderBottom_tree:after{border-top-width:0;border-bottom-width:1px;margin-top:29px}
+.TreeListToolTip_tree{border-color:#c98400;background:#ffefbd;color:#333}
+.RadTreeListRTL_tree .rtlLines td.rtlL1{background-image:url('TreeList/rtlTopRTL.gif')}
+.RadTreeListRTL_tree .rtlLines td.rtlL2{background-image:url('TreeList/rtlMiddleRTL.gif')}
+.RadTreeListRTL_tree .rtlLines td.rtlL3{background-image:url('TreeList/rtlBottomRTL.gif')}
+
+
+ div.RadTreeList_tree .rtlR {
+	background-color: rgb(0, 0, 0);
+}
+ div.RadTreeList_tree .rtlA {
+	background-color: rgb(255, 0, 0);
+}
+ div.RadTreeList_tree .rtlREdit {
+	background-color: rgb(0, 0, 255);
+}

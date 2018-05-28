@@ -1,0 +1,59 @@
+﻿.Design.rbButton, .Design.rbButton.rbDisabled,
+.Design .rbSplitPart {
+    border-color: black;
+    color: #ffffff;
+    background-color: #333333;
+}
+
+    .Design.rbButton.rbHovered, .Design.rbButton.rbToggled.rbHovered,
+    .Design.rbButton .rbHovered {
+        border-color: darkgray;
+        color: #000000;
+        background-color: #c2c2c2;
+    }
+
+    .Design.rbButton:focus {
+        box-shadow: inset 0 0 5px rgba(103, 103, 103, 0.5);
+    }
+
+    .Design.rbButton.rbSelected, .Design.rbButton.rbToggled,
+    .Design.rbSelected .rbHovered {
+        border-color: #676767;
+        color: #333333;
+        background-color: #808080;
+    }
+
+    .Design.rbButton:hover,
+    .Design.rbButton.rbHovered .rbSplitPart {
+        border-color: darkgray;
+    }
+
+    .Design.rbButton.rbSelected,
+    .Design.rbButton.rbSelected:active .rbSplitPart {
+        border-color: #676767;
+    }
+
+.Design.rbPrimaryButton {
+    border-color: #242424;
+    color: #ffffff;
+    background-color: #333333;
+}
+
+    .Design.rbPrimaryButton.rbHovered, .Design.rbPrimaryButton.rbToggled.rbHovered, .Design.rbPrimaryButton.rbFocused {
+        border-color: #141414;
+        color: #ffffff;
+        background-color: #242424;
+        box-shadow: none;
+    }
+
+    .Design.rbPrimaryButton.rbSelected, .Design.rbPrimaryButton.rbToggled {
+        border-color: #050505;
+        color: #ffffff;
+        background-color: #141414;
+    }
+
+    .Design.rbPrimaryButton.rbDisabled {
+        border-color: #242424;
+        color: #ffffff;
+        background-color: #333333;
+    }

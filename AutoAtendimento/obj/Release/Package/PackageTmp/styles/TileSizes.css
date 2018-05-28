@@ -1,0 +1,41 @@
+﻿.CustomSizeTiles .RadTile.rtileSquare {
+    /* SquareTileWidth */
+    width: 150px;
+}
+
+.CustomSizeTiles .RadTile {
+    /* muda a cor */
+    background-color: rgb(190, 13, 13);
+    background-size: 50px;
+}
+
+.CustomSizeTiles .RadTile.rtileWide,
+.CustomSizeTiles .RadTile.rtileSquare {
+    /* SquareTileHeight and WideTileHeight */
+    height: 155px;
+}
+
+.CustomSizeTiles.RadTileList .rtlistWrapper {
+    /* TileGroupWidth */
+    width: 160px;
+}
+
+
+
+
+
+
+
+/*
+
+.CustomSizeTiles .RadTile.rtileSquare.BigSquare {
+    width: 205px;
+    height: 205px;
+}
+
+.CustomSizeTiles .RadTile.rtileWide {
+     WideTileWidth  
+    width: 205px;
+}
+
+*/

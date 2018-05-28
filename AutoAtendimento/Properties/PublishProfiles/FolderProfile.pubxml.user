@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Projeto Yamcol\AutoAtendimento\AutoAtendimento\bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AdicionaisTool.ascx">
+      <publishTime>03/27/2018 17:05:41</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/0.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/1.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/2.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/3.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/4.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/5.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/6.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/7.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/8.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/9.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/A.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/B.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/C.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/D.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/E.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/F.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/G.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/H.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/I.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/J.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/K.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/L.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/M.wav">
+      <publishTime>05/03/2017 15:16:38</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/N.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/O.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/P.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Q.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/R.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/S.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/T.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/U.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/V.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/W.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/X.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Y.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Z.wav">
+      <publishTime>05/03/2017 15:16:40</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/de-DE.tdf">
+      <publishTime>05/03/2017 15:18:12</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/en-US.tdf">
+      <publishTime>05/03/2017 15:18:12</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/fr-FR.tdf">
+      <publishTime>05/03/2017 15:18:12</publishTime>
+    </File>
+    <File Include="bin/AutoAtendimento.dll">
+      <publishTime>04/26/2018 11:15:44</publishTime>
+    </File>
+    <File Include="bin/AutoAtendimento.pdb">
+      <publishTime>04/26/2018 11:15:44</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/23/2017 13:15:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/23/2017 13:15:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AnalysisServices.AdomdClient.dll">
+      <publishTime>05/02/2017 17:23:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 20:33:56</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.Spreadsheet.dll">
+      <publishTime>05/03/2017 06:35:56</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>05/02/2017 15:49:52</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>05/02/2017 15:49:52</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Core.dll">
+      <publishTime>04/28/2017 12:11:18</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Flow.dll">
+      <publishTime>04/28/2017 12:11:26</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.dll">
+      <publishTime>04/28/2017 12:11:34</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll">
+      <publishTime>04/28/2017 12:11:36</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Zip.dll">
+      <publishTime>04/28/2017 12:11:14</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/20/2018 14:38:36</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/19/2018 09:26:47</publishTime>
+    </File>
+    <File Include="images/Adicionais/batatafritaprato.jpg">
+      <publishTime>03/20/2018 13:33:05</publishTime>
+    </File>
+    <File Include="images/Adicionais/ovofritoprato.jpg">
+      <publishTime>03/20/2018 13:33:20</publishTime>
+    </File>
+    <File Include="images/arrowdown.png">
+      <publishTime>04/12/2018 15:36:28</publishTime>
+    </File>
+    <File Include="images/arrowup.png">
+      <publishTime>04/12/2018 15:36:28</publishTime>
+    </File>
+    <File Include="images/Bebidas/agua.jpg">
+      <publishTime>03/20/2018 14:22:45</publishTime>
+    </File>
+    <File Include="images/Bebidas/cervejalongneck.jpg">
+      <publishTime>03/20/2018 14:23:51</publishTime>
+    </File>
+    <File Include="images/Bebidas/refrigerantelata.jpg">
+      <publishTime>03/20/2018 14:05:25</publishTime>
+    </File>
+    <File Include="images/Bebidas/sucolata.png">
+      <publishTime>03/20/2018 14:24:45</publishTime>
+    </File>
+    <File Include="images/Chrysanthemum.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Desert.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Hydrangeas.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Jellyfish.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Koala.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Lighthouse.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Penguins.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/proteina.jpg">
+      <publishTime>03/19/2018 14:09:53</publishTime>
+    </File>
+    <File Include="images/Proteinas/camaraoprato.jpg">
+      <publishTime>03/20/2018 09:08:49</publishTime>
+    </File>
+    <File Include="images/Proteinas/carneprato.jpg">
+      <publishTime>03/20/2018 09:10:19</publishTime>
+    </File>
+    <File Include="images/Proteinas/frangoprato.jpg">
+      <publishTime>03/20/2018 09:09:08</publishTime>
+    </File>
+    <File Include="images/Proteinas/peixeprato.jpg">
+      <publishTime>03/20/2018 09:10:05</publishTime>
+    </File>
+    <File Include="images/refeicaolocal.png">
+      <publishTime>03/19/2018 14:09:53</publishTime>
+    </File>
+    <File Include="images/refeicaoviagem.png">
+      <publishTime>03/19/2018 14:09:53</publishTime>
+    </File>
+    <File Include="images/Sobremesas/milkshake.jpg">
+      <publishTime>03/20/2018 14:40:22</publishTime>
+    </File>
+    <File Include="images/Sobremesas/sorvetecascao.jpg">
+      <publishTime>03/20/2018 14:40:39</publishTime>
+    </File>
+    <File Include="images/Sobremesas/sorvetecasquinha.jpg">
+      <publishTime>03/20/2018 14:41:21</publishTime>
+    </File>
+    <File Include="images/Sobremesas/sundae.png">
+      <publishTime>03/20/2018 14:41:40</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Chrysanthemum.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Desert.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Hydrangeas.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Jellyfish.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Koala.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Lighthouse.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Penguins.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Tulips.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="images/Tulips.jpg">
+      <publishTime>03/19/2018 09:03:07</publishTime>
+    </File>
+    <File Include="scripts/scripts.js">
+      <publishTime>03/19/2018 09:03:10</publishTime>
+    </File>
+    <File Include="styles/base.css">
+      <publishTime>03/26/2018 09:28:09</publishTime>
+    </File>
+    <File Include="styles/default.css">
+      <publishTime>03/19/2018 09:03:10</publishTime>
+    </File>
+    <File Include="styles/grid.css">
+      <publishTime>03/19/2018 09:03:10</publishTime>
+    </File>
+    <File Include="styles/listView.css">
+      <publishTime>03/19/2018 09:03:10</publishTime>
+    </File>
+    <File Include="styles/Style.css">
+      <publishTime>03/26/2018 17:59:01</publishTime>
+    </File>
+    <File Include="styles/Tile.Tile.css">
+      <publishTime>04/12/2018 09:15:24</publishTime>
+    </File>
+    <File Include="styles/TileList.alanotilelist.css">
+      <publishTime>04/12/2018 09:50:46</publishTime>
+    </File>
+    <File Include="styles/TreeList.Teste1.css">
+      <publishTime>04/12/2018 09:09:20</publishTime>
+    </File>
+    <File Include="styles/Wizard.alano.css">
+      <publishTime>04/12/2018 09:36:00</publishTime>
+    </File>
+    <File Include="styles/Wizard.Teste1.css">
+      <publishTime>04/12/2018 09:09:20</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/26/2018 11:15:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

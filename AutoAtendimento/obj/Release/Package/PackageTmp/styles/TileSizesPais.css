@@ -1,0 +1,21 @@
+﻿.SizeTilesPais .RadTile.rtileSquare {
+    /* SquareTileWidth */
+    width: 170px;
+}
+
+.SizeTilesPais .RadTile {
+    /* muda a cor */
+    background-color: rgb(190, 13, 13);
+    background-size: 50px;
+}
+
+    .SizeTilesPais .RadTile.rtileWide,
+    .SizeTilesPais .RadTile.rtileSquare {
+        /* SquareTileHeight and WideTileHeight */
+        height: 170px;
+    }
+
+.SizeTilesPais.RadTileList .rtlistWrapper {
+    /* TileGroupWidth */
+    width: 180px;
+}

@@ -1,0 +1,55 @@
+.RadTile_a2 {
+    font-family: "Segoe UI",Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    color: white;
+    background-color: #25a0da;
+    border-color:black
+}
+
+.RadTile_a2.rtileSelected{border-color:black}
+
+
+
+
+
+
+
+
+    .RadTile_a2.rtileHovered {
+        border-color: black
+    }
+
+.RadTile_a2.rtileSelected.rtileHovered{
+    border-color:black
+
+}
+
+
+
+
+    .RadTile_a2.rtileSelected .rtileSelectedIcon {
+        background-image: url('Tile/rtileSprite.png');
+        _background-image: url('Tile/rtileSpriteIE6.png');
+        border-color: black
+    }
+
+    .RadTile_a2 div.rtileBadgeIcon {
+        background-image: url('Common/rtileBadgeIconsDark.png');
+        _background-image: url('Common/rtileBadgeIconsDarkIE6.png');
+        border-color: black
+    }
+
+html .RadTile_a2.RadTile h6.rtileTitle {
+    color: white;
+    border-color: black
+}
+
+.RadTile_a2 .rtilePeekContent {
+    background-color: #25a0da;
+    border-color: black
+}
+
+.RadTile_a2.rtileLoading, .RadTile_a .rtileLoading {
+    background-image: url('Common/loading_small.gif');
+    border-color: black
+}

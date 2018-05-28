@@ -1,0 +1,48 @@
+﻿.wrapper {
+    width: 1440px;
+}
+
+    .wrapper ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        font-family: Calibri, Arial;
+        color: #4f4236;
+    }
+
+    .wrapper li {
+        display: inline-block;
+        float: left;
+        text-align: left;
+        margin: 10px;
+        border: 1px solid #e3d7c0 !important;
+        background-color: #DDDDDD;
+    }
+
+.inner {
+    width: 100%;
+    color: #897d67;
+    font-size: 13px;
+    font-family: Calibri, Arial;
+    height: 200px;
+}
+.wrapper2 {
+    width: 130px;
+}
+
+    .wrapper2 ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        font-family: Calibri, Arial;
+        color: #4f4236;
+    }
+
+    .wrapper2 li {
+        display: inline-block;
+        float: left;
+        text-align: left;
+        margin: 10px;
+        border: 1px solid #e3d7c0 !important;
+        background-color: #DDDDDD;
+    }
